@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Verde-Timor-Leste",
+  "siteUrl": "https://www.verde-tl.com/",
+  "description": "Top level site for Verde timor leste.  This site describes our diverse services in Timor Lest",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Welcome to Verde Recycling and Marketing Services",
+    "description": "Verde is a established company in Timor Leste.   We are project based organization with over 10 years experience working in Timor Leste. We provide recycling solutions, project management and marketing services  to a variety of customers.  \n\nOur three current projects are described below in more detail"
   }
 }
