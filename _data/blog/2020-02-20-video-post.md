@@ -5,6 +5,10 @@ date: 2020-02-20T15:05:49.332Z
 title: Our Marketing Services
 thumbnail: /assets/image-1.jpg
 ---
+Our marketing company provides full service video production in Timor Leste.  We also have a mobile app for android or ios so that marketing departments can manage their activies and see the history of their work.
+
+Please visit our website at [Marketing](https://gogo.verde-tl.com)
+
 Blah, blah,  extra work to do here. I have embedded a youtude video in this page. By adding HTML to the markdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZY-Ytrw2co" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
