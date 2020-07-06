@@ -20,7 +20,7 @@ const ContactPage = ({
           <p>Contact us to work with us further in our various projects especially recyclinng and marketing services.  We are always looking to explore partnerships. &rarr;</p>
         </div>
         <div>
-          <form className="form-container" name="contact" data-netlify="true" method="post">
+          <form className="form-container" name="contact" data-netlify="true" method="POST">
             <div>
               <label htmlFor="w3lName">Name</label>
               <input type="text" name="w3lName" id="w3lName"/>
