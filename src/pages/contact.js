@@ -22,23 +22,23 @@ const ContactPage = ({
         <div>
           <form className="form-container" name="contact" data-netlify="true" method="POST">
             <div>
-              <label htmlFor="name">Name</label>
-              <input type="text" name="name" id="name"/>
+              <label htmlFor="name">Name
+              <input type="text" name="name" id="name"/></label>
             </div>
             <div>
-              <label htmlFor="sender">Email</label>
-              <input type="email" name="sender" id="sender"/>
+              <label htmlFor="sender">Email
+              <input type="email" name="sender" id="sender"/></label>
             </div>
             <div>
-              <label htmlFor="subject">Subject</label>
-              <input type="text" name="subject" id="subject"/>
+              <label htmlFor="subject">Subject
+              <input type="text" name="subject" id="subject"/></label>
             </div>
             <div>
-              <label htmlFor="message">Message</label>
-              <textarea name="message" id="message"></textarea>
+              <label htmlFor="message">Message
+              <textarea name="message" id="message"></textarea></label>
             </div>
             <div style={{display: "flex", justifyContent: "flex-end"}}>
-              <button type="submit" className="button -primary" style={{marginRight: 0}}>Submit</button>
+              <button type="submit" className="button -primary" style={{marginRight: 0}}>Send</button>
             </div>
           </form>
         </div>
