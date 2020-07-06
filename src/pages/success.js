@@ -14,7 +14,7 @@ const Success = props => (
       <section id="one">
         <div className="inner">
           <header className="major">
-            <h1>Success/Thank You Page</h1>
+            <h1>Message sent! Thank You </h1>
           </header>
           <span className="image main">  
             <img src='/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg' alt="splash"/>
