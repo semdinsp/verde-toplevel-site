@@ -20,7 +20,7 @@ const ContactPage = ({
           <p>Contact us to work with us further in our various projects especially recyclinng and marketing services.  We are always looking to explore partnerships. &rarr;</p>
         </div>
         <div>
-          <form className="form-container" name="contact" data-netlify="true"  data-netlify-honeypot="bot-field" action="/"  method="POST">
+          <form className="form-container" name="contact" data-netlify="true"  data-netlify-honeypot="bot-field" action="/success"  method="POST">
             <div>  
               <input type="hidden" name="bot-field" />
               <input type="hidden" name="form-name" value="contact" />
