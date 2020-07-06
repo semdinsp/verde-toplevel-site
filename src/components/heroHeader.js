@@ -23,7 +23,7 @@ export default () => (
         />
         <Link to='https://recycle.verde-tl.com' className="button -primary">Recycle and Community Project &rarr;</Link>
         <Link to='https://marketinng.verde-tl.com' className="button -primary">Marketing Project &rarr;</Link>
-        <Link to='https://app.verde-tl.com' className="button -primary">Marketinng App &rarr;</Link>
+        <Link to='https://app.verde-tl.com' className="button -primary">Marketing App &rarr;</Link>
         <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
       </div>
     )}
