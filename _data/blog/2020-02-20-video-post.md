@@ -7,4 +7,4 @@ thumbnail: /assets/image-1.jpg
 ---
 Our marketing service can help you source business licenses in Timor Leste.  We have extensive connections to successfully complete the application process across a wide variety of services.
 
-Please visit our website at [Marketing](marketing2.verde-tl.com)
+Please visit our website at [Marketing](https://marketing.verde-tl.com)
