@@ -18,6 +18,9 @@ const ContactPage = ({
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">Get in Touch</h1>
           <p>Contact us to work with us further in our various projects especially recyclinng and marketing services.  We are always looking to explore partnerships. &rarr;</p>
+    <p>Timor Leste contact: Eka Mardiarti Singapore contact: Scott Sproule</p>
+    <p>Timor Address:  Timor Plaza, CDB 2, 2 Andar, Aldela 20 de Setembro, Bebonuk Dom Aleixo, Dili, Timor Leste </p>
+    <p>Singapore Address:  07-07 Trivex, 8 Burn Road, Singapore, 369977 </p>
         </div>
         <div>
           <form className="form-container" name="contact" data-netlify="true"  data-netlify-honeypot="bot-field" action="/success"  method="POST">
