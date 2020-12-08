@@ -20,6 +20,13 @@ export default ({ children }) => {
       <header className="site-header">
         <div className="site-title">
           <Link to="/">{data.site.siteMetadata.title}</Link>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-JLHZF6XKFH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JLHZF6XKFH');
+</script>
         </div>
         <Navigation />
       </header>
