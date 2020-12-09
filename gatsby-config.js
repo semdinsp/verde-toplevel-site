@@ -45,6 +45,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it. replace with yours
+        trackingId: "G-JLHZF6XKFH",
+        head: true,
+      }
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Delog GatbsyJS Starter`,
