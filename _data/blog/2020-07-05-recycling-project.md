@@ -9,4 +9,4 @@ We are looking to provide a complete solution for recycling with our partners MD
 
 We have started a gofundme campaign to build the  houses and are working on our funding requirements.  [See the campaign.](https://www.gofundme.com/f/verde-recycled-house)
 
-Our vision is to create a complete value chain for the recycling business which is currently missing (there is no production level purchaser of recycled products in Timor and we hope our housing initiative will jump start this business)
+Our vision is to create a complete value chain for the recycling business which is currently missing (there is no production level purchaser of recycled products in Timor and we hope our housing initiative will jump start this business).  [See our detailed website on recycling for more details](https://recycle.verde-tl.com)
